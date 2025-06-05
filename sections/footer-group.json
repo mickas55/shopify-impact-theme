@@ -21,19 +21,19 @@
             "show_menu_title": true
           }
         },
+        "links_GPYMm4": {
+          "type": "links",
+          "settings": {
+            "menu": "main-menu",
+            "show_menu_title": true
+          }
+        },
         "text": {
           "type": "text",
           "settings": {
             "title": "Contactez-nous",
             "content": "<p>contact@oldmoneyvision.fr</p>",
             "enable_follow_on_shop": true
-          }
-        },
-        "links_GPYMm4": {
-          "type": "links",
-          "settings": {
-            "menu": "main-menu",
-            "show_menu_title": true
           }
         },
         "links_7FXwtT": {
@@ -46,8 +46,8 @@
       },
       "block_order": [
         "links",
-        "text",
         "links_GPYMm4",
+        "text",
         "links_7FXwtT"
       ],
       "settings": {
