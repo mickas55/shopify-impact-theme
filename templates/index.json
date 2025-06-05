@@ -339,12 +339,13 @@
         "products": [
           "leopard-blue",
           "classique-leopard",
-          "riviera-blue"
+          "riviera-blue",
+          "lunette-de-soleil-french-rivera"
         ],
         "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 3,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 10,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
