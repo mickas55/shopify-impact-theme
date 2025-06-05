@@ -464,12 +464,34 @@
             "button_background": "",
             "button_text_color": ""
           }
+        },
+        "image_Gz9w6L": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
         }
       },
       "block_order": [
         "image_HC9AcD",
         "image_6GzUXr",
-        "image_rNdhME"
+        "image_rNdhME",
+        "image_Gz9w6L"
       ],
       "name": "Media with text",
       "settings": {
