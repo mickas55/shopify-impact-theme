@@ -9,6 +9,37 @@
  */
 {
   "sections": {
+    "featured_collection_aAPjDb": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "lunette-de-soleil-french-rivera",
+          "riviera-blue",
+          "classique-leopard",
+          "leopard-blue"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Bes Sellers",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "rgba(0,0,0,0)",
+        "product_card_text_color": ""
+      }
+    },
     "slideshow_e64TkB": {
       "type": "slideshow",
       "blocks": {
@@ -149,6 +180,7 @@
     }
   },
   "order": [
+    "featured_collection_aAPjDb",
     "slideshow_e64TkB",
     "collection-list"
   ]
