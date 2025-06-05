@@ -192,7 +192,8 @@
         "collection_qhQHRJ": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "iconic",
+            "image": "shopify://shop_images/Original-leopard.png",
             "subheading": "",
             "title": "HERITAGE",
             "url": "",
