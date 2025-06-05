@@ -14,15 +14,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
-            "content": ""
-          }
-        },
         "links": {
           "type": "links",
           "settings": {
@@ -33,16 +24,23 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "Contactez-nous",
+            "content": "<p>contact@oldmoneyvision.fr</p>",
             "enable_follow_on_shop": true
+          }
+        },
+        "links_GPYMm4": {
+          "type": "links",
+          "settings": {
+            "menu": "main-menu",
+            "show_menu_title": true
           }
         }
       },
       "block_order": [
-        "newsletter",
         "links",
-        "text"
+        "text",
+        "links_GPYMm4"
       ],
       "settings": {
         "show_social_media": true,
