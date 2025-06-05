@@ -32,24 +32,16 @@
             "show_taxes_notice": false
           }
         },
-        "rating": {
-          "type": "rating",
+        "klaviyo_reviews_average_rating_tTjEpe": {
+          "type": "shopify://apps/klaviyo-reviews/blocks/average-rating/db20e365-d984-4ac4-9655-e1588d951ca9",
           "settings": {
-            "show_empty": false
+            "product": "{{product}}"
           }
         },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
+        "share_buttons_KWzk9U": {
+          "type": "share_buttons",
           "settings": {
-            "collapse_content": false
+            "alignment": "start"
           }
         },
         "variant_picker": {
@@ -60,6 +52,12 @@
             "selector_mode": "block",
             "color_mode": "color",
             "size_chart_page": ""
+          }
+        },
+        "inventory_ejRzUe": {
+          "type": "inventory",
+          "settings": {
+            "low_inventory_threshold": 0
           }
         },
         "quantity_selector": {
@@ -76,6 +74,31 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "c_edd_estimated_delivery_date_delivery_coder_theme_j6KFwQ": {
+          "type": "shopify://apps/c-edd-estimated-delivery-date/blocks/delivery_coder_theme/4a0685bc-c234-45b2-8382-5ad6a8e3e3fd",
+          "settings": {}
+        },
+        "collapsible_text_WjfYX3": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "collapsible_text_93zJ6W": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "collapsible_text_f4GK8x": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
         }
       },
       "block_order": [
@@ -83,13 +106,16 @@
         "title",
         "badges",
         "price",
-        "rating",
-        "payment_terms",
-        "separator",
-        "description",
+        "klaviyo_reviews_average_rating_tTjEpe",
+        "share_buttons_KWzk9U",
         "variant_picker",
+        "inventory_ejRzUe",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "c_edd_estimated_delivery_date_delivery_coder_theme_j6KFwQ",
+        "collapsible_text_WjfYX3",
+        "collapsible_text_93zJ6W",
+        "collapsible_text_f4GK8x"
       ],
       "settings": {
         "full_width": true,
