@@ -13,7 +13,26 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
-      "disabled": true,
+      "blocks": {
+        "message_cj8Tyc": {
+          "type": "message",
+          "settings": {
+            "text": "LIVRAISON GRATUITE EN FRANCE",
+            "url": ""
+          }
+        },
+        "message_x3Hett": {
+          "type": "message",
+          "settings": {
+            "text": "OFFRE DE PRINTEMPS : 1 ACHETÉE 1 -50% !",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "message_cj8Tyc",
+        "message_x3Hett"
+      ],
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
