@@ -404,7 +404,6 @@
         "image_HC9AcD": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/S629e513557584feeaafb1cd889234fb9V.webp",
             "media_width": 40,
             "media_position": "end",
             "text_position": "place-self-start-center text-center",
