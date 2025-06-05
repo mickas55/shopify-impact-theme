@@ -101,6 +101,37 @@
         "product_card_text_color": ""
       }
     },
+    "featured_collection_eBL8d4": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "leopard-blue",
+          "classique-leopard",
+          "riviera-blue",
+          "lunette-de-soleil-french-rivera"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Nouveauté",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -203,6 +234,7 @@
   "order": [
     "slideshow_dyY8RH",
     "featured_collection_aAPjDb",
+    "featured_collection_eBL8d4",
     "collection-list"
   ]
 }
