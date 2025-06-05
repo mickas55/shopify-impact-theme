@@ -35,12 +35,20 @@
             "menu": "main-menu",
             "show_menu_title": true
           }
+        },
+        "links_7FXwtT": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true
+          }
         }
       },
       "block_order": [
         "links",
         "text",
-        "links_GPYMm4"
+        "links_GPYMm4",
+        "links_7FXwtT"
       ],
       "settings": {
         "show_social_media": true,
