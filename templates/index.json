@@ -404,7 +404,7 @@
         "image_HC9AcD": {
           "type": "image",
           "settings": {
-            "media_width": 50,
+            "media_width": 40,
             "media_position": "end",
             "text_position": "place-self-start-center text-center",
             "icon": "none",
@@ -425,7 +425,7 @@
         "image_6GzUXr": {
           "type": "image",
           "settings": {
-            "media_width": 50,
+            "media_width": 40,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
@@ -446,7 +446,7 @@
         "image_rNdhME": {
           "type": "image",
           "settings": {
-            "media_width": 50,
+            "media_width": 40,
             "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
@@ -467,7 +467,7 @@
         "image_Gz9w6L": {
           "type": "image",
           "settings": {
-            "media_width": 50,
+            "media_width": 40,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
