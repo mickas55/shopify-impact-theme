@@ -82,21 +82,28 @@
         "collapsible_text_WjfYX3": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>"
+            "title": "Déscription",
+            "content": ""
           }
         },
         "collapsible_text_93zJ6W": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Title",
+            "title": "Information sur la livraison",
             "content": "<p>Share some content to your customers about your products.</p>"
           }
         },
         "collapsible_text_f4GK8x": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Title",
+            "title": "DIMENSIONS",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "collapsible_text_8hLJUq": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "EXPÉDITION ET RETOURS",
             "content": "<p>Share some content to your customers about your products.</p>"
           }
         }
@@ -115,7 +122,8 @@
         "c_edd_estimated_delivery_date_delivery_coder_theme_j6KFwQ",
         "collapsible_text_WjfYX3",
         "collapsible_text_93zJ6W",
-        "collapsible_text_f4GK8x"
+        "collapsible_text_f4GK8x",
+        "collapsible_text_8hLJUq"
       ],
       "settings": {
         "full_width": true,
