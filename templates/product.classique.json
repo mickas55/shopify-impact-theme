@@ -292,6 +292,46 @@
         "product_card_text_color": ""
       }
     },
+    "slideshow_KxQ7KM": {
+      "type": "slideshow",
+      "blocks": {
+        "image_yYNXJ4": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "rgba(0,0,0,0)",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_yYNXJ4"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "recently_viewed_products_bzqaNk": {
       "type": "recently-viewed-products",
       "name": "Recently viewed products",
@@ -334,6 +374,7 @@
     "1749133553c4345294",
     "text_with_icons_8qKWVP",
     "related-products",
+    "slideshow_KxQ7KM",
     "recently_viewed_products_bzqaNk",
     "custom_liquid_nyJxEa"
   ]
