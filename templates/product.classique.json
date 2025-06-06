@@ -97,7 +97,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "EXPÉDITION ET RETOURS",
-            "content": "<p>Share some content to your customers about your products.</p>"
+            "content": "<p>Livraison gratuite en France sous 2-4 jours.</p><p>Livraison en Europe sous 4-7 jours pour 5,90€.</p><p>Vous disposez d'un délai de 14 jours pour retourner votre produit et obtenir un remboursement complet.</p>"
           }
         }
       },
