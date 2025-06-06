@@ -217,6 +217,20 @@
             "overlay_opacity": 30
           }
         },
+        "collection_PE7QrL": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "collection_WVAfkn": {
           "type": "collection",
           "settings": {
@@ -250,6 +264,7 @@
         "collection-1",
         "collection_qhQHRJ",
         "collection_Whxpmh",
+        "collection_PE7QrL",
         "collection_WVAfkn",
         "collection_XYyG3Y"
       ],
