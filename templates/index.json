@@ -323,7 +323,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
+            "title": "Paiement sécurisé",
             "content": "<p>Les paiements sur notre site sont cryptés et sécurisés par 3D Secure.</p>"
           }
         }
