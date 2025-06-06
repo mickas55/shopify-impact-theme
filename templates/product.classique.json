@@ -257,10 +257,23 @@
             "animate_impact_text": false,
             "animate_impact_text_duration": 2
           }
+        },
+        "item_mPKnmy": {
+          "type": "item",
+          "settings": {
+            "title": "UV400",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
         }
       },
       "block_order": [
-        "item_Qq9VpH"
+        "item_Qq9VpH",
+        "item_mPKnmy"
       ],
       "name": "Impact text",
       "settings": {
