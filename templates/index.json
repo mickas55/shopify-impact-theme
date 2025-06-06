@@ -324,7 +324,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Secure payment",
-            "content": "<p>Your payment information is processed securely.</p>"
+            "content": "<p>Les paiements sur notre site sont cryptés et sécurisés par 3D Secure.</p>"
           }
         }
       },
