@@ -42,8 +42,8 @@
         "item_JXDCmj": {
           "type": "item",
           "settings": {
-            "title": "Question 1",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
+            "title": "Comment puis-je vous contacter ?",
+            "content": "<p>Vous pouvez nous écrire à tout moment via le formulaire de contact sur notre site ou directement par email à l’adresse suivante : contact@oldmoneyvision.fr.<br/></p><p>Nous répondons sous 24 à 48h ouvrées.</p>"
           }
         },
         "item_CE87Rj": {
@@ -71,7 +71,7 @@
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+        "content": "<p>Vous avez une question sur nos lunettes, votre commande ou la livraison ? Cette section regroupe les réponses aux questions les plus fréquentes pour vous aider rapidement et simplement.</p>",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
