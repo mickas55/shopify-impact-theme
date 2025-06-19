@@ -56,8 +56,8 @@
         "item_R3axbF": {
           "type": "item",
           "settings": {
-            "title": "Question 3",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
+            "title": "Quels transporteurs utilisez-vous ?",
+            "content": "<p>Nous travaillons principalement avec<strong>Chronopost</strong>et<strong>Mondial Relay</strong>pour vous garantir une livraison rapide et sécurisée en France.</p>"
           }
         }
       },
