@@ -59,12 +59,28 @@
             "title": "Quels transporteurs utilisez-vous ?",
             "content": "<p>Nous travaillons principalement avec<strong>Chronopost</strong>et<strong>Mondial Relay</strong>pour vous garantir une livraison rapide et sécurisée en France.</p>"
           }
+        },
+        "item_eTrg6L": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je modifier ou annuler ma commande après paiement ?",
+            "content": "<p>Si votre commande n’a pas encore été traitée, contactez-nous rapidement. Une fois le colis préparé, nous ne pourrons plus effectuer de modification ou d’annulation.</p>"
+          }
+        },
+        "item_hatAwk": {
+          "type": "item",
+          "settings": {
+            "title": "Title",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
+          }
         }
       },
       "block_order": [
         "item_JXDCmj",
         "item_CE87Rj",
-        "item_R3axbF"
+        "item_R3axbF",
+        "item_eTrg6L",
+        "item_hatAwk"
       ],
       "name": "Accordion content",
       "settings": {
