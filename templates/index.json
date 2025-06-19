@@ -386,38 +386,17 @@
     "media_with_text_MrhF6W": {
       "type": "media-with-text",
       "blocks": {
-        "image_HC9AcD": {
-          "type": "image",
-          "settings": {
-            "media_width": 40,
-            "media_position": "end",
-            "text_position": "place-self-start-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "PACKAGING",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "background": "rgba(0,0,0,0)",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
         "image_6GzUXr": {
           "type": "image",
           "settings": {
             "media_width": 40,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
+            "media_position": "end",
+            "text_position": "place-self-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
             "title": "CONCEPTION ACETATE",
-            "content": "",
+            "content": "<p>Nos montures sont fabriquées à partir d’acétate de haute qualité, un matériau noble reconnu pour sa résistance, son confort et ses finitions soignées. Contrairement aux plastiques standards, l’acétate offre une sensation de solidité en main et un rendu haut de gamme.</p>",
             "link_text": "",
             "link_url": "",
             "background": "rgba(0,0,0,0)",
@@ -432,13 +411,13 @@
           "type": "image",
           "settings": {
             "media_width": 40,
-            "media_position": "end",
-            "text_position": "place-self-center text-center",
+            "media_position": "start",
+            "text_position": "place-self-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
             "title": "VERRE TAC POLARISÉ",
-            "content": "",
+            "content": "<p>Tous nos verres sont conçus en TAC (Tri Acetate Cellulose) polarisé UV400. Ce type de verre réduit l’éblouissement, améliore la netteté visuelle et protège efficacement contre les rayons UV. Parfait pour un confort visuel optimal, même en plein soleil.</p>",
             "link_text": "",
             "link_url": "",
             "background": "rgba(0,0,0,0)",
@@ -449,17 +428,17 @@
             "button_text_color": ""
           }
         },
-        "image_Gz9w6L": {
+        "image_HC9AcD": {
           "type": "image",
           "settings": {
             "media_width": 40,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
+            "media_position": "end",
+            "text_position": "place-self-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "PROTECTION UV400",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "PACKAGING",
+            "content": "<p>Chaque paire de lunettes est livrée avec un packaging complet et soigné : un étui rigide, une pochette en tissu, une lingette de nettoyage en microfibre et une boîte cartonnée de protection. L’ensemble reflète l’élégance de la marque et assure une protection optimale lors de la livraison.</p>",
             "link_text": "",
             "link_url": "",
             "background": "rgba(0,0,0,0)",
@@ -472,10 +451,9 @@
         }
       },
       "block_order": [
-        "image_HC9AcD",
         "image_6GzUXr",
         "image_rNdhME",
-        "image_Gz9w6L"
+        "image_HC9AcD"
       ],
       "name": "Media with text",
       "settings": {
