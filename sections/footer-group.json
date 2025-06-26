@@ -32,7 +32,7 @@
           "type": "text",
           "settings": {
             "title": "Contactez-nous",
-            "content": "<p>contact@oldmoneyvision.fr</p>",
+            "content": "<p>contact@oldmoneyvision.fr</p><p>support@oldmoneyvision.fr</p>",
             "enable_follow_on_shop": true
           }
         },
