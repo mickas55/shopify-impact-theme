@@ -431,7 +431,8 @@
         "image_HC9AcD": {
           "type": "image",
           "settings": {
-            "media_width": 40,
+            "image": "shopify://shop_images/Packagingpng.png",
+            "media_width": 45,
             "media_position": "end",
             "text_position": "place-self-start text-start",
             "icon": "none",
