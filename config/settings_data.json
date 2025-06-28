@@ -42,6 +42,8 @@
     "cart_show_free_shipping_threshold": false,
     "cart_free_shipping_threshold": 0,
     "social_facebook": "https://www.facebook.com/profile.php?id=61577707628276",
+    "social_instagram": "https://www.instagram.com/oldmoneyeyewear/",
+    "social_tiktok": "https://www.tiktok.com/@oldmoneyeyewear?is_from_webapp=1&sender_device=pc",
     "favicon": "shopify://shop_images/Favicon.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
