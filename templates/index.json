@@ -158,7 +158,6 @@
           "type": "collection",
           "settings": {
             "collection": "classique",
-            "image": "shopify://shop_images/IMG_3504_25178205-aa5b-4cfb-bf64-8817cd63ef56.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -432,7 +431,7 @@
         "image_HC9AcD": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Packagingpng.png",
+            "image": "shopify://shop_images/packaging.png",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-start text-start",
