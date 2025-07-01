@@ -46,8 +46,8 @@
         "item_BE9bd8": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Comment puis-je vous contacter ?",
+            "content": "<p>Vous pouvez nous écrire à tout moment via le formulaire de contact sur notre site ou directement par email à l’adresse suivante : contact@oldmoneyvision.fr.<br/></p><p>Nous répondons sous 24 à 48h ouvrées.</p>"
           }
         },
         "item_4PJMPn": {
@@ -75,9 +75,9 @@
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "<p>Vous avez une question sur nos lunettes, votre commande ou la livraison ? Cette section regroupe les réponses aux questions les plus fréquentes pour vous aider rapidement et simplement.</p>",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "support_hours": "Our customer support is available Monday to Friday: 9am-4pm.",
         "answer_time": "Average answer time: 24h",
         "button_text": "",
         "button_url": "",
