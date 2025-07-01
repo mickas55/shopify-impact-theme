@@ -60,7 +60,7 @@
         "item_PCtUVf": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
+            "title": "Quels transporteurs utilisez-vous ?",
             "content": "<p>Nous travaillons principalement avec <strong>Chronopost </strong>et <strong>Mondial Relay </strong>pour vous garantir une livraison rapide et sécurisée en France.</p>"
           }
         }
