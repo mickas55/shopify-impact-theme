@@ -162,6 +162,7 @@
           "type": "collection",
           "settings": {
             "collection": "classique",
+            "image": "shopify://shop_images/Black-blue_881057f7-01af-4d4a-82e6-8d17f90d1e55.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -251,6 +252,7 @@
         "collection_WVAfkn",
         "collection_XYyG3Y"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_collections": false,
