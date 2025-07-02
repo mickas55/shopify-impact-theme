@@ -58,7 +58,7 @@
           "oldmoney-classique-blue-gradient",
           "oldmoney-classique-blue",
           "oldmoney-classique-leopard-brown-gradient",
-          "leopard-blue"
+          "oldmoney-leopard-black-gradient"
         ],
         "full_width": true,
         "stack_products": true,
@@ -86,7 +86,7 @@
       "settings": {
         "collection": "",
         "products": [
-          "leopard-blue",
+          "oldmoney-leopard-black-gradient",
           "oldmoney-classique-leopard-brown-gradient",
           "oldmoney-classique-blue",
           "oldmoney-classique-blue-gradient"
