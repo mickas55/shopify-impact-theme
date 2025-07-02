@@ -209,6 +209,41 @@
         "review_button_text_color": "#ffffff"
       }
     },
+    "media_with_text_NkTqJJ": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_rHFFGb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/packaging.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "PACKAGING",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_rHFFGb"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "text_with_icons_8qKWVP": {
       "type": "text-with-icons",
       "blocks": {
@@ -273,7 +308,7 @@
     "related-products": {
       "type": "related-products",
       "settings": {
-        "recommendations_count": 6,
+        "recommendations_count": 3,
         "products": [],
         "full_width": true,
         "stack_products": true,
@@ -372,6 +407,7 @@
     "main",
     "impact_text_9EWqFp",
     "175149867445f2e972",
+    "media_with_text_NkTqJJ",
     "text_with_icons_8qKWVP",
     "related-products",
     "slideshow_KxQ7KM",
