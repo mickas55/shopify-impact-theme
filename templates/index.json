@@ -53,7 +53,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "",
+        "collection": "classique",
         "products": [
           "oldmoney-classique-blue-gradient",
           "oldmoney-classique-blue",
@@ -63,7 +63,7 @@
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
-        "products_count": 6,
+        "products_count": 5,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
