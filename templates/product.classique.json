@@ -187,13 +187,13 @@
     "1749133553c4345294": {
       "type": "apps",
       "blocks": {
-        "klaviyo_reviews_product_reviews_m4ELG9": {
+        "klaviyo_reviews_product_reviews_ArrQtY": {
           "type": "shopify://apps/klaviyo-reviews/blocks/product-reviews/db20e365-d984-4ac4-9655-e1588d951ca9",
           "settings": {}
         }
       },
       "block_order": [
-        "klaviyo_reviews_product_reviews_m4ELG9"
+        "klaviyo_reviews_product_reviews_ArrQtY"
       ],
       "settings": {
         "full_width": true,
