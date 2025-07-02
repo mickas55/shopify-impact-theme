@@ -53,12 +53,17 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "classique",
+        "collection": "",
         "products": [
           "oldmoney-classique-blue-gradient",
           "oldmoney-classique-blue",
           "oldmoney-classique-leopard-brown-gradient",
-          "oldmoney-leopard-black-gradient"
+          "oldmoney-leopard-black-gradient",
+          "oldmoney-classique-black-gradient",
+          "oldmoney-classique-brown-gradient",
+          "oldmoney-classique-green-gradient",
+          "oldmoney-leopard-blue",
+          "oldmoney-leopard-blue-gradient"
         ],
         "full_width": true,
         "stack_products": true,
