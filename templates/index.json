@@ -91,10 +91,9 @@
       "settings": {
         "collection": "",
         "products": [
-          "oldmoney-leopard-black-gradient",
-          "oldmoney-classique-leopard-brown-gradient",
-          "oldmoney-classique-blue",
-          "oldmoney-classique-blue-gradient"
+          "oldmoney-leopard-blue",
+          "oldmoney-classique-green-gradient",
+          "oldmoney-classique-black-gradient"
         ],
         "full_width": true,
         "stack_products": true,
