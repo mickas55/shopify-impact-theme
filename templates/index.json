@@ -415,6 +415,7 @@
         "image_rNdhME": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Photo-leo-black-black-blue_d8c1081b-45f5-43b0-9927-f6bddd725e6f.png",
             "media_width": 40,
             "media_position": "start",
             "text_position": "place-self-start text-start",
