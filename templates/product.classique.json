@@ -187,13 +187,13 @@
     "175149867445f2e972": {
       "type": "apps",
       "blocks": {
-        "klaviyo_reviews_product_reviews_cMqTEF": {
-          "type": "shopify://apps/klaviyo-reviews/blocks/product-reviews/db20e365-d984-4ac4-9655-e1588d951ca9",
+        "klaviyo_reviews_all_reviews_MrL8Uf": {
+          "type": "shopify://apps/klaviyo-reviews/blocks/all-reviews/db20e365-d984-4ac4-9655-e1588d951ca9",
           "settings": {}
         }
       },
       "block_order": [
-        "klaviyo_reviews_product_reviews_cMqTEF"
+        "klaviyo_reviews_all_reviews_MrL8Uf"
       ],
       "settings": {
         "full_width": true,
