@@ -374,7 +374,7 @@
       "settings": {
         "full_width": true,
         "products_count": 6,
-        "stack_products": true,
+        "stack_products": false,
         "show_progress_bar": true,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
@@ -389,19 +389,6 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
-    },
-    "custom_liquid_nyJxEa": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div class=\"klaviyo-form-Wv4i66\"></div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
@@ -412,7 +399,6 @@
     "text_with_icons_8qKWVP",
     "related-products",
     "slideshow_KxQ7KM",
-    "recently_viewed_products_bzqaNk",
-    "custom_liquid_nyJxEa"
+    "recently_viewed_products_bzqaNk"
   ]
 }
